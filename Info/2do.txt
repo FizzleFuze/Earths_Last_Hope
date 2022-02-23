@@ -1,0 +1,14 @@
+--2do:
+    -> Do one step at a time <-
+    [Plan, Create, Test] Task 1 1
+        [Plan, Create, Test] Sub-Task 1
+
+--2do:
+    [F, F, F] Commander Profile
+        [F, F, F] Big Bertha Rockets - 2x Colonists, 3x Cargo, 1.5x Fuel, Destroyed on Landing
+    [F, F, F] Sponsor Profile
+    [F, F, F] Colony Colour Scheme
+    [F, F, F] Challenge
+    [F, F, F] Mystery
+    [F, F, F] Fab Lab   <--- move this to a separate mod and require it
+        [F, F, F] Fabs Have quality, impacting other stats like performance and maintenance
